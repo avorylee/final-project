@@ -13,6 +13,7 @@
 		BD795AE128871F09002012B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD795ADF28871F09002012B0 /* Main.storyboard */; };
 		BD795AE328871F0B002012B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD795AE228871F0B002012B0 /* Assets.xcassets */; };
 		BD795AE628871F0B002012B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD795AE428871F0B002012B0 /* LaunchScreen.storyboard */; };
+		BD795AEE28884BB5002012B0 /* ingridentCheckerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD795AED28884BB5002012B0 /* ingridentCheckerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BD795AE228871F0B002012B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD795AE528871F0B002012B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD795AE728871F0B002012B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD795AED28884BB5002012B0 /* ingridentCheckerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ingridentCheckerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				BD795ADB28871F09002012B0 /* SceneDelegate.swift */,
 				BD795ADD28871F09002012B0 /* ViewController.swift */,
 				BD795ADF28871F09002012B0 /* Main.storyboard */,
+				BD795AED28884BB5002012B0 /* ingridentCheckerViewController.swift */,
 				BD795AE228871F0B002012B0 /* Assets.xcassets */,
 				BD795AE428871F0B002012B0 /* LaunchScreen.storyboard */,
 				BD795AE728871F0B002012B0 /* Info.plist */,
@@ -141,6 +144,7 @@
 				BD795ADE28871F09002012B0 /* ViewController.swift in Sources */,
 				BD795ADA28871F09002012B0 /* AppDelegate.swift in Sources */,
 				BD795ADC28871F09002012B0 /* SceneDelegate.swift in Sources */,
+				BD795AEE28884BB5002012B0 /* ingridentCheckerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
