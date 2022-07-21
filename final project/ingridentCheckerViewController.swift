@@ -41,12 +41,12 @@ class ingridentCheckerViewController: UIViewController {
         //for every bad ingredient in bad ingredients
         for badIngredient in badIngredients {
             if ingredient == badIngredient {
-                return " \(ingredient) may cause acne"
+                return " \(ingredient) may cause acne and irritation. You may want to stay away from this ingredient as it is known to be comoedgonic, or clogged pores!"
             } else if ingredient == "Please enter ingredient" {
                 return " Please enter an actual ingredient"
             }
             else {
-                return " \(ingredient) may not cause acne"
+                return " \(ingredient) has the potential to not cause acne. This ingredient does not cause more clogged pores."
             }
             
         }
